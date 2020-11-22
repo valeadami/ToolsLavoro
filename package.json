@@ -1,0 +1,14 @@
+{
+  "name": "toolslavoro",
+  "version": "1.0.0",
+  "description": "strumenti per sviluppo Dialogflow",
+  "main": "index2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "valentina adami",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.16.6"
+  }
+}
